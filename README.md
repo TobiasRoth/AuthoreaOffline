@@ -19,5 +19,8 @@ From your article (main view):
 
 **This works!**
 
+Authorea created a repository on my Github account [here](https://github.com/j-faria/Authorea-Offline).
+The default article has some `.tex` files, a `bibliography` folder and a `figures` folder. It also has the all-mighty `layout.md` file which is very important! 
+
 
 
