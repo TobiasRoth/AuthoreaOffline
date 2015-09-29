@@ -24,5 +24,7 @@ From your article (main view):
 Authorea created a repository on my Github account [here](https://github.com/j-faria/Authorea-Offline).
 The default article has some `.tex` files, a `bibliography` folder and a `figures` folder. It also has the all-mighty `layout.md` file which is very important! 
 
+We can go ahead and clone this repository and/or edit the `.tex` files online. Every change should be updated to the Authorea article. But we have no way to compile the code offline.
+
 
 
