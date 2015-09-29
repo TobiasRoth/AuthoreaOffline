@@ -1,3 +1,5 @@
+![Astro Hack Week](https://img.shields.io/badge/Astro-Hack%20Week-green.svg?style=flat-square)
+
 # AuthoreaOffline
 Compile Authorea documents offline and make them still look good online. 
 
