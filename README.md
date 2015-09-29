@@ -24,7 +24,11 @@ From your article (main view):
 Authorea created a repository on my Github account [here](https://github.com/j-faria/Authorea-Offline).
 The default article has some `.tex` files, a `bibliography` folder and a `figures` folder. It also has the all-mighty `layout.md` file which is very important! 
 
-We can go ahead and clone this repository and/or edit the `.tex` files online. Every change should be updated to the Authorea article. But we have no way to compile the code offline.
+We can go ahead and clone this repository and/or edit the `.tex` files online. Every change should be updated to the Authorea article. 
+
+But we have no way to compile the code offline. The guide tells us
+
+  LaTeX users. Most users who write in LaTeX will want to compile their articles from time to time when working offline. We advise users not to change the basic structure of the repository. For example, the file layout.md is crucial as it instructs Authorea what files to render. If you delete it, the Authorea article will break! In order to build your article locally when working offline we suggest to use this Python [script](https://github.com/eteq/authorea-scripts) by our fellow Erik Tollerud.
 
 
 
